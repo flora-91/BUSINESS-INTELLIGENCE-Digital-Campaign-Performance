@@ -32,7 +32,7 @@ Visión global del rendimiento de las campañas, evolución temporal, canales, c
 👥 **Análisis por Segmento**  
 Análisis del comportamiento de las campañas según diferentes perfiles de audiencia.
 
-![Portada del dashboard](assets/portada.png)
+![Portada del dashboard](portada.png)
 
 ---
 
@@ -56,7 +56,7 @@ La primera vista permite obtener una visión global de la performance de las cam
 - Comparación de métricas por compañía.
 - Filtros dinámicos por empresa, ubicación, segmento, canal, Top N y campaña.
 
-![Dashboard de análisis general](assets/dashboard-general.png)
+![Dashboard de análisis general](dashboard-general.png)
 
 ---
 
@@ -81,7 +81,7 @@ También cuenta con filtros dinámicos para analizar diferentes combinaciones de
 - Top N
 - Campaña
 
-![Dashboard por perfil de audiencia](assets/dashboard-segmentos.png)
+![Dashboard por perfil de audiencia](dashboard-segmentos.png)
 
 ---
 
